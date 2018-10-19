@@ -10,7 +10,7 @@
   machine readable form. It is defined in the XML 1.0 Specification produced by the
   W3C, and several other related specifications, all gratis open standards.
  # Contributor 
-  Aya Ashraf Saber
-  Merit Vector Ageeb
-  Rita Samir 
+  Aya Ashraf Saber  <br />
+  Merit Vector Ageeb  <br />
+  Rita Samir  <br />
 
